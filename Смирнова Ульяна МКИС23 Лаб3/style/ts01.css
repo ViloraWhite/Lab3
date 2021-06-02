@@ -1,0 +1,62 @@
+body {
+			background: #000  url(img/fon.jpg) center center fixed no-repeat;
+			-moz-background-size: cover;
+			background-size: cover;
+		}
+		
+.table1 {
+font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+text-align: left;
+border-collapse: separate;
+border-spacing: 5px;
+background: #ECE9E0;
+color: #656665;
+border: 16px solid #ECE9E0;
+border-radius: 20px;
+}
+.th1 {
+font-size: 18px;
+padding: 10px;
+}
+.td1 {
+background: #F5D7BF;
+padding: 10px;
+}
+
+.table2 {
+font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+text-align: left;
+border-collapse: separate;
+border-spacing: 5px;
+background: #F8E4EF;
+color: #656665;
+border: 16px solid #F8E4EF;
+border-radius: 20px;
+}
+.th2 {
+font-size: 18px;
+padding: 10px;
+}
+.td2 {
+background: #EFBDEB;
+padding: 10px;
+}
+
+.table3 {
+font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+text-align: left;
+border-collapse: separate;
+border-spacing: 5px;
+background: #E7E8F3;
+color: #656665;
+border: 16px solid #E7E8F3;
+border-radius: 20px;
+}
+.th3 {
+font-size: 18px;
+padding: 10px;
+}
+.td3 {
+background: #BDADEA;
+padding: 10px;
+}
